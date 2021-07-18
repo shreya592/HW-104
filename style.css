@@ -1,0 +1,45 @@
+body 
+{
+    color: black;
+    font-family: 'Festive', cursive;
+    background: rgb(149,217,233);
+background: linear-gradient(297deg, rgba(149,217,233,1) 12%, rgba(167,238,193,1) 36%, rgba(255,186,251,1) 64%, rgba(208,186,244,1) 96%);
+
+}
+
+.heading 
+{
+    width: 80%;
+    font-size: 22px;
+    
+}
+
+#cam
+{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 350px;
+    height: 300px;
+
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+color: rgb(0, 0, 0);
+}
+
+#btn
+{
+    background: rgb(131,183,195);
+background: linear-gradient(297deg, rgba(131,183,195,1) 12%, rgba(155,222,180,1) 36%, rgba(217,156,213,1) 64%, rgba(178,161,208,1) 96%);
+border: 2px black double;
+}
+
+#capture
+{
+    background: #94cfdc;
+}
+
+#ide
+{
+    background: #a2dfb8;
+}
